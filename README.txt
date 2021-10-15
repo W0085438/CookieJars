@@ -73,4 +73,5 @@ They define the properties of the data that are stored in the database.
 6. Enhance site styles
 
 -Apply css styles to enhance cosmetic look of site
--Add product image 
+-Use Photoshop to create product image for landing page
+-Add product image to home page
