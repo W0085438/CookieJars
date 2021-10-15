@@ -70,8 +70,7 @@ They define the properties of the data that are stored in the database.
 -Create new database field - Rating (1-5 Poor:Excellent)
 -Rating to be used to capture overall feedback from customers on products
 
-6. Add validation
+6. Enhance site styles
 
--Add validation rules to the book model
--Add DataType Attributes
--Apply database migrations
+-Apply css styles to enhance cosmetic look of site
+-Add product image 
